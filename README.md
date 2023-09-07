@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is [Lakshmipriya!](https://github.com/lakshmipriya222)👋
 
 <!--
 **lakshmipriya222/lakshmipriya222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently working on Github
+- 🌱 I’m currently learning Github, Java, HTML,CSS
+- 📫 How to reach me: s567650@nwmissouri.edu
+- 😄 Pronouns:She/Her
+- ⚡ Fun fact: I like cooking rather than eating.
